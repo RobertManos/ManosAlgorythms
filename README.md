@@ -1,2 +1,2 @@
-# SortingAlgorithms
-A collection of sorting algorithms
+A Collection of algorithms I have worked on.
+
